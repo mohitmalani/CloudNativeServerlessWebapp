@@ -1,0 +1,22 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "lambda function",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-Malani/serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-Malani/serverless/issues"
+  },
+  "homepage": "https://github.com/Mohit-Malani/serverless#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
